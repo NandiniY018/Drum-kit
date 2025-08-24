@@ -1,0 +1,85 @@
+body {
+    text-align: center;
+    background: linear-gradient(135deg, #efa5a5, #efa5a5);
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #dbedf3;
+    text-align: center;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #da0463;
+}
+
+footer {
+    color: #313c40;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    padding: 20px;
+    font-size: 2rem;
+}
+
+.w {
+    background-image: url("images/tom1.jpg");
+}
+
+.a {
+    background-image: url("images/tom2.jpg");
+}
+
+.s {
+    background-image: url("images/tom3.png");
+}
+
+.d {
+    background-image: url("images/tom4.png");
+}
+
+.j {
+    background-image: url("images/tom5.png");
+}
+
+.k {
+    background-image: url("images/tom6.jpeg");
+}
+
+.l {
+    background-image: url("images/tom7.png");
+}
+
+/* Drum button styles */
+.set {
+    margin: 10% auto;
+    text-align: center;
+}
+
+.drum {
+    outline: none;
+    border: 10px solid #404b69;
+    font-size: 5rem;
+    font-family: "Arvo", cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #da0463;
+    text-shadow: 3px 0 #dbedf3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    background-size: cover;        /* ✅ make images fit button */
+    background-position: center;   /* ✅ center the image */
+    cursor: pointer;
+}
+
+.pressed {
+    box-shadow: 0 3px 4px 0 #dbedf3;
+    opacity: 0.5;
+}
+
+.red {
+    color: red;
+}
+
