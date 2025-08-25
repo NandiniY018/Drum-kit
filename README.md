@@ -21,9 +21,9 @@ Press the keys or click the drum buttons to play different drum sounds in real t
 | A   | Tom 2        |
 | S   | Tom 3        |
 | D   | Tom 4        |
-| J   | Snare        |
-| K   | Crash Cymbal |
-| L   | Kick Bass    |
+| J   | Tom 5        |
+| K   | Tom 6        |
+| L   | Tom 7        |
 
 ##  Project Structure
 drum-kit/
@@ -36,7 +36,7 @@ drum-kit/
 ##  How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/drum-kit.git
+   https://github.com/NandiniY018/Drum-kit.git
 2.Open index.html in your browser
 3.Start drumming! 
 
