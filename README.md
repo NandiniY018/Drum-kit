@@ -45,4 +45,4 @@ drum-kit/
 👩‍💻 Author
   Nandini
   Made with ❤️ using HTML, CSS & JavaScript.
-  👉 Do you want me to also add a **preview screenshot section** in the README (so GitHub shows an image of your drum kit UI)?
+  
