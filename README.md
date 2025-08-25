@@ -40,7 +40,5 @@ drum-kit/
 2.Open index.html in your browser
 3.Start drumming! 
 
- Author
-  Nandini
-  Made with using HTML, CSS & JavaScript.
+
   
