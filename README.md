@@ -1,44 +1,8 @@
 # Drum-kit
 
-A fun and interactive **Drum Kit Web App** built using **HTML, CSS, and JavaScript**.  
-Press the keys or click the drum buttons to play different drum sounds in real time.
-
-##  Features
-- Play drum sounds using **keyboard keys** or **mouse clicks**  
-- Smooth animations when a key is pressed  
-- Responsive design for desktop and mobile  
-- Easy to customize with your own sounds  
-
-##  Technologies Used
-- **HTML5** – Structure  
-- **CSS3** – Styling and layout  
-- **JavaScript (ES6)** – Functionality and sound effects  
-
-##  Controls
-| Key | Sound        |
-|-----|--------------|
-| W   | Tom 1        |
-| A   | Tom 2        |
-| S   | Tom 3        |
-| D   | Tom 4        |
-| J   | Tom 5        |
-| K   | Tom 6        |
-| L   | Tom 7        |
-
-##  Project Structure
-drum-kit/
- - index.html
- - style.css
- - main.js
- - sounds/ (contains .mp3/.wav files)
- - images/ (optional drum images)
-
-##  How to Run
-1. Clone this repository  
-   ```bash
-   https://github.com/NandiniY018/Drum-kit.git
-2.Open index.html in your browser
-3.Start drumming! 
-
+Drum Kit Web App is a fun and interactive browser-based application built with HTML, CSS, and JavaScript. Users can play different 
+drum sounds in real time by pressing keyboard keys or clicking on drum buttons, with smooth animations enhancing the experience. 
+The app is designed for desktop use and can be easily customized with your own sounds.
+  
 
   
